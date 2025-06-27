@@ -1,0 +1,117 @@
+<root>
+    <route id="0">
+        <point>135,148,0,0,0,0</point>
+        <point>152, 153,0,3,0,0</point>
+        <point>147, 166,0,0,0,0</point>
+        <point>190, 223,0,0,0,0</point>
+
+    </route>
+    <route id="1">
+        <point>135,148,0,0,0,0</point>
+        <point>125,170,0,3,0,0</point>
+        <point>127,182,0,0,0,0</point>
+        <point>163,181,0,0,0,0</point>
+        <point>190,223,0,0,0,0</point>
+    </route>
+    <route id="2">
+        <point>135, 148,0,0,0,0</point>
+        <point>171, 147,0,0,0,0</point>
+        <point>204, 167,0,3,0,0</point>
+        <point>204, 178,0,0,0,0</point>
+        <point>190, 223,0,0,0,0</point>
+    </route>
+    <route id="3">
+        <point>220, 226,0,0,0,0</point>
+        <point>232, 238,0,3,0,0</point>
+        <point>233, 225,0,0,0,0</point>
+    </route>
+
+    <route id="4">
+        <point>444, 155,0,0,0,0</point>
+        <point>465, 133,0,3,0,0</point>
+        <point>462, 163,0,0,0,0</point>
+    </route>
+
+    <route id="5">
+        <point>461, 196,0,0,0,0</point>
+        <point>447, 201,0,0,0,0</point>
+        <point>408, 193,0,3,0,0</point>
+        <point>403, 232,0,0,0,0</point>
+        <point>453, 223,0,0,0,0</point>
+    </route>
+
+    <route id="6">
+        <point>461, 196,0,0,0,0</point>
+        <point>470, 207,0,3,0,0</point>
+        <point>459, 204,0,0,0,0</point>
+    </route>
+
+
+
+    <route id="7">
+        <point>453, 223,0,3,0,0</point>
+        <point>446, 268,0,0,0,0</point>
+    </route>
+
+    <route id="8">
+        <point>446, 268,0,0,0,0</point>
+        <point>455, 283,0,3,0,0</point>
+        <point>439, 276,0,0,0,0</point>
+    </route>
+
+    <route id="9">
+        <point>364, 281,0,0,0,0</point>
+        <point>356, 307,0,3,0,0</point>
+        <point>352, 282,0,0,0,0</point>
+    </route>
+
+    <route id="11">
+        <point>356, 440,0,0,0,0</point>
+        <point>344, 455,0,3,0,0</point>
+        <point>370, 470,0,0,0,0</point>
+    </route>
+
+    <route id="12">
+        <point>370, 470,0,0,0,0</point>
+        <point>365, 488,0,0,0,0</point>
+        <point>377, 501,0,3,0,0</point>
+        <point>407, 475,0,0,0,0</point>
+    </route>
+
+    <route id="13">
+        <point>370, 470,0,0,0,0</point>
+        <point>389, 468,0,0,0,0</point>
+        <point>399, 458,0,3,0,0</point>
+        <point>407, 475,0,0,0,0</point>
+    </route>
+
+    <route id="14">
+        <point>452, 488,0,3,0,0</point>
+        <point>460, 491,0,0,0,0</point>
+    </route>
+
+    <route id="15">
+        <point>474, 494,0,3,0,0</point>
+        <point>467, 482,0,0,0,0</point>
+    </route>
+</root>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
